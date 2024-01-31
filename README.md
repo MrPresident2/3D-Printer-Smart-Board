@@ -8,11 +8,18 @@ Assistant and Octoprint.
 
 ## **Join Our Discord Server**
 ---
-To discuss everything about our custom made PCBs or everything 3D printed!
+To discuss everything about our custom-made PCBs or everything 3D printed!
 
 [<img src="https://discordapp.com/api/guilds/763458034440863814/widget.png?style=banner2" alt="Discord Banner 2"/>](https://discord.gg/cdHPTxnrM8)
 
+
 ---
+## **Follow us on Tiktok**
+
+[<img src="https://raw.githubusercontent.com/MrPresident2/3D-Printer-Smart-Board/main/Pictures/Revision%201-5.png?" width="300" height="200" />](https://www.tiktok.com/@the_printing_pilot)
+
+---
+
 ## 🖳 **Parts:**  
 • 3D Printer Smart Board [Link](http://a.com) 
 
@@ -29,6 +36,18 @@ To discuss everything about our custom made PCBs or everything 3D printed!
 • XH2.54mm Crimper [Link](https://amzn.to/48hjnM3) 
 
 • Qty 2 - Cherry MX Switches (Blues the best ) [Link](https://amzn.to/3SCHvTJ) 
+
+**If you make your own inclosure you will also need:**
+
+• 3D Printed Enclosure [Link](http://a.com) 
+
+• IEC320 3 pin socket [Link](https://www.aliexpress.us/item/3256804060531986.html?spm=a2g0o.order_list.order_list_main.112.2c841802WrHN1h&gatewayAdapt=glo2usa) 
+
+• AC power socket [Link](https://www.aliexpress.us/item/2255799943471942.html?spm=a2g0o.order_list.order_list_main.118.2c841802WrHN1h&gatewayAdapt=glo2usa) 
+
+• 28AWG Wire cable [Link](https://s.click.aliexpress.com/e/_DDpZerF) 
+
+• 6.3mm Female Crimp Terminal Brass (dont have to you can also solder the cables) [Link](https://s.click.aliexpress.com/e/_DB5VTvx) 
 
 ---
 
@@ -92,11 +111,11 @@ Crimper. Insert the crimped pins into the connector as shown here
 
 5. **POWER⚡**
 
-• plug in both the 3 prong AC power cord to back of the Smart Power box as well as the 5V 10A DC adapter
+• plug in both the 3-prong AC power cord to back of the Smart Power box as well as the 5V 10A DC adapter
 
 • To toggle on the lights single press the lights button on the button panel. Single press to turn off the lights.
 
-• Turn on the printer by quickly double pressing the power button of the button panel. Double
+• Turn on the printer by quickly double-pressing the power button of the button panel. Double
 press again to turn off your printer. If pressed too slow the printer will not turn on or off, this is a
 safety feature to help prevent accidently turning the printer off by simply bumping the button. 
 
