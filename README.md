@@ -6,9 +6,17 @@ Assistant and Octoprint.
 <img src="https://github.com/MrPresident2/3D-Printer-Smart-Board/blob/main/Pictures/GEN2%20Power%20Smart%20Switch%20Thumbnail%20B-Close%20up%202.png?raw=true" width="300" height="200" /> 
 
 
+**The project is open-source, but please consider supporting us and helping us with feature development by purchasing the PCBs from our [Etsy Shop](https://theprintingpilot.etsy.com) . Thank you!**
+
+[PCB ONLY](http://a.com)
+
+[PCB+Enclosure](http://a.com)
+
+
+
 ## **Join Our Discord Server**
 ---
-To discuss everything about our custom-made PCBs or everything 3D printed!
+To discuss everything about our custom made PCBs or everything 3D printed!
 
 [<img src="https://discordapp.com/api/guilds/763458034440863814/widget.png?style=banner2" alt="Discord Banner 2"/>](https://discord.gg/cdHPTxnrM8)
 
@@ -111,15 +119,15 @@ Crimper. Insert the crimped pins into the connector as shown here
 
 5. **POWER⚡**
 
-• plug in both the 3-prong AC power cord to back of the Smart Power box as well as the 5V 10A DC adapter
+• plug in both the 3 prong AC power cord to back of the Smart Power box as well as the 5V 10A DC adapter
 
 • To toggle on the lights single press the lights button on the button panel. Single press to turn off the lights.
 
-• Turn on the printer by quickly double-pressing the power button of the button panel. Double
+• Turn on the printer by quickly double pressing the power button of the button panel. Double
 press again to turn off your printer. If pressed too slow the printer will not turn on or off, this is a
 safety feature to help prevent accidently turning the printer off by simply bumping the button. 
 
-6. **3D Printer Smart Board**
+**3D Printer Smart Board**
 
  PCB is controlled by a preprogrammed ESP32, this allows you 
 to do the following:
